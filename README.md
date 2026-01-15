@@ -43,5 +43,5 @@
 ---
 
 ## 📫 Contact
-📧 info@ivibetech.com  
+📧 avinashkumardeveloper@gmail.com 
 🌐 https://github.com/geniusavinash
